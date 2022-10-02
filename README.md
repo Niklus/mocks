@@ -1,2 +1,2 @@
 # mocks
-Using Mockend For Mock Data
+Using mockend for mock data
